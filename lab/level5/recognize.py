@@ -1,4 +1,3 @@
-from ast import expr_context
 import face_recognition
 import os
 import shutil  # copy file
